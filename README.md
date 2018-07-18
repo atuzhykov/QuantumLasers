@@ -1,2 +1,2 @@
-# QuantumLasers
- INFLUENCE OF NON-CONTINUOUS SPACE-DEPENDENT EFFECTIVE MASS ON THE ELECTRONIC SPECTRUM IN A PLANEOUS SINGLE NANOSISTEM
+In the model of continuous spatially-dependent effective mass and rectangular potential of electron in plane single-well nanostructure the solutions of stationary Schrodinger equation are obtained and the influence of the width of the pre-surface between the nanostructure well and the barriers on the electron energy spectrum is analyzed. It is established that the widening of the pre-surface region brings to the monotonous low-energy shift of the electron states energies. The magnitudes of the shifts increase when the number of the energy level becomes bigger in the groups of odd and even states.
+Keywords: nanosystem, effective mass, energy spectrum.
